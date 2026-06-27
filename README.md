@@ -7,7 +7,7 @@ This repository contains a Web Application Penetration Testing (WAPT) report con
 ## Objectives
 
 - Perform security assessment of a web application
-- Identify OWASP Top 10 vulnerabilities
+- Identify OWASP vulnerabilities
 - Analyze security risks
 - Provide remediation recommendations
 
