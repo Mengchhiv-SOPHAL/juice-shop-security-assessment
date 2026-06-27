@@ -28,6 +28,4 @@ This repository contains a Web Application Penetration Testing (WAPT) report con
 - Risk Assessment
 
 ## Report
-
-- 📄 OWASP_Juice_Shop_WAPT_Report.pdf
-- 📊 OWASP_Juice_Shop_WAPT_Report.xlsx
+- 📊 Juice_Shop_report.xlsx
